@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html, body{
+    min-height: 100vh;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+pre{
+    white-space: pre-line;
+}
+
+main{
+    margin: 50px 0px 10px 0px;
+}
